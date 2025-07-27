@@ -47,8 +47,6 @@ studentapp_backend/
 - Story/passage creation
 - AI-powered quiz generation
 - Quiz attempts tracking
-- Points system
-- Leaderboard
 - Quiz history
 
 ### Posts System

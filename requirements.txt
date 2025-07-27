@@ -1,0 +1,10 @@
+Django==5.0.2
+ djangorestframework==3.14.0
+ django-cors-headers==4.3.1
+ Pillow==10.2.0
+ python-dotenv==1.0.1
+ google-generativeai==0.3.2
+ PyPDF2==3.0.1
+ django-rest-auth==0.9.5
+ django-allauth==0.61.1
+ djangorestframework-simplejwt==5.3.1 
